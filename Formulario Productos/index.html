@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    
+    <form action="">
+        <div class="contenido">
+            <label for="dato1">Codigo</label>
+            <input type="number" placeholder="Coodigo del Producto" required id="codigo">
+        </div>
+
+        <div class="contenido">
+            <label for="dato2">Nombre</label>
+            <input type="text" placeholder="Nombre Producto" required id="nombre">
+        </div>
+
+        <div class="contenido">
+            <label for="dato3">Categotia</label>
+            <input type="text" placeholder="Categoria Producto" required id="categoria">
+        </div>
+
+        <div class="contenido">
+            <label for="dato4">Precio</label>
+            <input type="number" placeholder="Precio del producto" required id="precio">
+        </div>
+
+        <div class="contenido">
+            <label for="dato5">Cantidad</label>
+            <input type="number" placeholder="Cantidad del Producto" required id="cantidad">
+        </div>
+
+        <div class="boton">
+            <button type="button" class="boton1" value="listar" name="Registrar" id="listar">Listar</button>
+            <button type="button" class="boton1" value="Calificar" name="Registrar" id="envio">Enviar</button>
+            <button type="button" class="boton1" value="buscar" name="Registrar" id="calcular">Calcular</button>
+    </div>
+    </form>
+
+    <div class="columna">
+        <table class="tabla" id="tabla">
+            <thead>
+                <th>Codigo</th>
+                <th>Nombre</th>
+                <th>Categoria</th>
+                <th>Precio</th>
+                <th>Cantidad</th>
+            </thead>
+        </table>
+    </div>
+
+    <div id="usuario"></div>
+
+    <script src="JS/enviar.js"></script>
+
+</body>
+</html>

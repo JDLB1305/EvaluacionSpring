@@ -1,0 +1,102 @@
+[
+    {
+        "codigo": 1,
+        "nombre": "Pollo",
+        "categoria": "Carnes",
+        "precio": 3000.0,
+        "cantidad": 5,
+        "total": 0.0,
+        "totalDesc": 0.0,
+        "preciofinal": 0.0
+    },
+    {
+        "codigo": 2,
+        "nombre": "Lechuga",
+        "categoria": "Vegetales",
+        "precio": 1500.0,
+        "cantidad": 6,
+        "total": 0.0,
+        "totalDesc": 0.0,
+        "preciofinal": 0.0
+    },
+    {
+        "codigo": 3,
+        "nombre": "Huevos",
+        "categoria": "Lacteos",
+        "precio": 12000.0,
+        "cantidad": 2,
+        "total": 0.0,
+        "totalDesc": 0.0,
+        "preciofinal": 0.0
+    },
+    {
+        "codigo": 4,
+        "nombre": "Papa",
+        "categoria": "Tuberculos",
+        "precio": 2500.0,
+        "cantidad": 5,
+        "total": 0.0,
+        "totalDesc": 0.0,
+        "preciofinal": 0.0
+    },
+    {
+        "codigo": 5,
+        "nombre": "Durazno",
+        "categoria": "Fruta",
+        "precio": 5000.0,
+        "cantidad": 10,
+        "total": 0.0,
+        "totalDesc": 0.0,
+        "preciofinal": 0.0
+    },
+    {
+        "codigo": 6,
+        "nombre": "Calabaza",
+        "categoria": "Vegetal",
+        "precio": 1400.0,
+        "cantidad": 3,
+        "total": 0.0,
+        "totalDesc": 0.0,
+        "preciofinal": 0.0
+    },
+    {
+        "codigo": 7,
+        "nombre": "Pera",
+        "categoria": "Fruta",
+        "precio": 1000.0,
+        "cantidad": 11,
+        "total": 0.0,
+        "totalDesc": 0.0,
+        "preciofinal": 0.0
+    },
+    {
+        "codigo": 8,
+        "nombre": "Zanahoria",
+        "categoria": "Vegetal",
+        "precio": 2000.0,
+        "cantidad": 4,
+        "total": 0.0,
+        "totalDesc": 0.0,
+        "preciofinal": 0.0
+    },
+    {
+        "codigo": 9,
+        "nombre": "Carne",
+        "categoria": "Carnes",
+        "precio": 2100.0,
+        "cantidad": 3,
+        "total": 0.0,
+        "totalDesc": 0.0,
+        "preciofinal": 0.0
+    },
+    {
+        "codigo": 10,
+        "nombre": "Sabila",
+        "categoria": "Planta",
+        "precio": 10000.0,
+        "cantidad": 2,
+        "total": 0.0,
+        "totalDesc": 0.0,
+        "preciofinal": 0.0
+    }
+]
