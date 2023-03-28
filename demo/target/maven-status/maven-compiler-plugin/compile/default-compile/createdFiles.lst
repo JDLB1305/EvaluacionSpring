@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\Controladores\ControladorProductos.class
+com\example\demo\Entidades\Productos.class
+com\example\demo\Servicios\ServicioProductos.class
+com\example\demo\ServletInitializer.class
